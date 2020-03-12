@@ -7,7 +7,7 @@
 3. wxPython
 ## Quick start
 - git clone这个项目
-- 导入你喜欢的IDE如pycharm，或者你喜欢的编辑器如Atom。
+- 导入你喜欢的IDE如pycharm，或者你喜欢的编辑器如Vscode。
 - 解压input_data.rar到你喜欢的目录。
 - 修改train.py中
 ```
