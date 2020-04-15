@@ -79,6 +79,7 @@ def get_files(file_dir, ratio):
 #   设置batch_size：每个batch要放多少张图片
 #   capacity：一个队列最大多少
 def get_batch(image, label, image_W, image_H, batch_size, capacity):
+    tf.compat.v1.disable_eager_execution()
     # 转换类型
     image = tf.cast(image, tf.string)
     label = tf.cast(label, tf.int32)
