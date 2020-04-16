@@ -7,7 +7,7 @@
 
 1. 安装 Anaconda
 2. 导入环境 environment.yaml  
-   `conda env update -f=environment.yml`
+   `conda env update -f=environment.yaml`
 
 ## Quick start
 
