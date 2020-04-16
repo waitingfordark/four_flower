@@ -1,0 +1,66 @@
+name: tf1
+channels:
+  - defaults
+dependencies:
+  - _tflow_select=2.1.0=gpu
+  - absl-py=0.9.0=py36_0
+  - astor=0.8.0=py36_0
+  - blas=1.0=mkl
+  - ca-certificates=2020.1.1=0
+  - certifi=2020.4.5.1=py36_0
+  - console_shortcut=0.1.1=4
+  - cudatoolkit=9.0=1
+  - cudnn=7.6.5=cuda9.0_0
+  - cycler=0.10.0=py36h009560c_0
+  - freetype=2.9.1=ha9979f8_1
+  - gast=0.3.3=py_0
+  - grpcio=1.27.2=py36h351948d_0
+  - icc_rt=2019.0.0=h0cc432a_1
+  - icu=58.2=ha66f8fd_1
+  - intel-openmp=2020.0=166
+  - jpeg=9b=hb83a4c4_2
+  - kiwisolver=1.1.0=py36ha925a31_0
+  - libpng=1.6.37=h2a8f88b_0
+  - libprotobuf=3.11.4=h7bd577a_0
+  - libtiff=4.1.0=h56a325e_0
+  - markdown=3.1.1=py36_0
+  - matplotlib=3.1.3=py36_0
+  - matplotlib-base=3.1.3=py36h64f37c6_0
+  - mkl=2020.0=166
+  - mkl-service=2.3.0=py36hb782905_0
+  - mkl_fft=1.0.15=py36h14836fe_0
+  - mkl_random=1.1.0=py36h675688f_0
+  - numpy=1.18.1=py36h93ca92e_0
+  - numpy-base=1.18.1=py36hc3f5095_1
+  - olefile=0.46=py36_0
+  - openssl=1.1.1f=he774522_0
+  - pillow=7.0.0=py36hcc1f983_0
+  - pip=20.0.2=py36_1
+  - protobuf=3.11.4=py36h33f27b4_0
+  - pyparsing=2.4.6=py_0
+  - pyqt=5.9.2=py36h6538335_2
+  - python=3.6.10=h9f7ef89_1
+  - python-dateutil=2.8.1=py_0
+  - qt=5.9.7=vc14h73c81de_0
+  - setuptools=46.1.3=py36_0
+  - sip=4.19.8=py36h6538335_0
+  - six=1.14.0=py36_0
+  - sqlite=3.31.1=he774522_0
+  - tensorboard=1.9.0=py36he025d50_0
+  - tensorflow=1.9.0=gpu_py36hfdee9c2_1
+  - tensorflow-base=1.9.0=gpu_py36h6e53903_0
+  - tensorflow-gpu=1.9.0=hf154084_0
+  - termcolor=1.1.0=py36_1
+  - tk=8.6.8=hfa6e2cd_0
+  - tornado=6.0.4=py36he774522_1
+  - vc=14.1=h0510ff6_4
+  - vs2015_runtime=14.16.27012=hf0eaf9b_1
+  - werkzeug=1.0.1=py_0
+  - wheel=0.34.2=py36_0
+  - wincertstore=0.2=py36h7fe50ca_0
+  - wxpython=4.0.4=py36ha925a31_0
+  - xz=5.2.4=h2fa13f4_4
+  - zlib=1.2.11=h62dcd97_3
+  - zstd=1.3.7=h508b16e_0
+prefix: C:\Users\Administrator\Anaconda2\envs\tf1
+
